@@ -41,9 +41,12 @@ GPT GLM-4 Free Chat AI is an open-source project that provides a free chat inter
    ```
 2. Navigate to the project directory:
    ```bash
+   cd gpt-4-free-chat
+   ```
+3. Install dependencies::
+   ```bash
    npm install
    ```
-
 ## 💻 Usage
 1. Start the development server:
    ```bash
